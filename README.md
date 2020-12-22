@@ -1,10 +1,10 @@
-# Project 1 - *Simple ToDo*
+# Pre-work - *Simple ToDo*
 
 **Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Nowshin Sayara**
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -26,17 +26,21 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [EZGIF](https://ezgif.com/) and [IMG2GO](https://www.img2go.com/convert-video-to-gif).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+I had issues with connecting Android Studio with GitHUB because it kept saying login was invalid. I used stackoverflow answer to guide me through the process of creating a token.
+
+Android Studio application was hard to navigate.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Nowshin Sayara]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
